@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  text-align: center;
+}
+.App{
+  background-color: #2f2a61;
+}
+.App-logo {
+  width: 200px;
+  height: 200px;
+}
+.App-title{
+  color: #ffffff;
+}
